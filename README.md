@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Gauri Soni
 
-<!--
-**gaurisoonii/gaurisoonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI/ML Engineer
 
-Here are some ideas to get you started:
+I enjoy building AI applications that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- Alzheimer's Disease Detection
+- Deepfake Detection
+- AI-powered Financial Complaint Analytics
+- Learning Agentic AI & RAG
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- Python
+- Java
+- SQL
+
+**AI & ML**
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV
+
+**Data**
+- Pandas
+- NumPy
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Alzheimer's Disease Detection
+Deep learning model for MRI classification.
+
+### 🎭 Deepfake Detection
+CNN-based deepfake detection system.
+
+### 📊 FinSight
+AI-powered financial complaint intelligence platform.
+
+### 👤 Face Recognition System
+Face recognition using ArcFace and InsightFace.
+
+---
+
+## 🌱 Currently Learning
+
+- Agentic AI
+- LangGraph
+- RAG
+- AWS
+- DSA
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *(add your link)*
+- Email: *(add your email)*
+
+⭐ Thanks for visiting my profile!
