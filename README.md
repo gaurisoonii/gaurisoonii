@@ -1,74 +1,92 @@
-# Hi 👋, I'm Gauri Soni
+<h1 align="center">Hi 👋, I'm Gauri Soni</h1>
+<h3 align="center">AI & Machine Learning Engineer | Computer Vision | Generative AI Enthusiast</h3>
 
-## AI/ML Engineer
-
-I enjoy building AI applications that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
-
----
-
-## 🚀 Currently Working On
-
-- Alzheimer's Disease Detection
-- Deepfake Detection
-- AI-powered Financial Complaint Analytics
-- Learning Agentic AI & RAG
+<p align="center">
+Passionate about building AI solutions that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 👩‍💻 About Me
 
-**Languages**
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 🤖 Interested in Machine Learning, Deep Learning, Computer Vision, and LLM-based applications
+- 🌱 Continuously learning modern AI technologies and software engineering practices
+- 💡 Enjoy building end-to-end AI projects from data preprocessing to model deployment
+- 🤝 Open to collaborating on AI and open-source projects
+- 📫 Reach me at **your_email@example.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Alzheimer's Disease Detection
+Deep learning-based MRI classification system for Alzheimer's disease using CNN architectures and medical image preprocessing.
+
+### 🎭 Deepfake Detection (DBFSNet)
+A computer vision model for detecting manipulated facial images using deep learning techniques.
+
+### 📊 FinSight
+An AI-powered financial complaint intelligence platform that analyzes complaint trends and generates actionable insights.
+
+### 👤 Face Recognition System
+Face recognition application built using ArcFace and InsightFace for robust facial identification.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 - Python
 - Java
 - SQL
+- C
 
-**AI & ML**
+### AI & Machine Learning
 - PyTorch
 - TensorFlow
 - Scikit-learn
 - OpenCV
-
-**Data**
-- Pandas
 - NumPy
+- Pandas
 
-**Tools**
+### Generative AI
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Transformers
+
+### Tools
 - Git
 - GitHub
-- VS Code
 - Jupyter Notebook
+- VS Code
+- FastAPI
 
 ---
 
-## 📌 Featured Projects
+## 📚 Areas of Interest
 
-### 🧠 Alzheimer's Disease Detection
-Deep learning model for MRI classification.
-
-### 🎭 Deepfake Detection
-CNN-based deepfake detection system.
-
-### 📊 FinSight
-AI-powered financial complaint intelligence platform.
-
-### 👤 Face Recognition System
-Face recognition using ArcFace and InsightFace.
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Data Science
+- MLOps
+- Open Source
 
 ---
 
-## 🌱 Currently Learning
 
-- Agentic AI
-- LangGraph
-- RAG
-- AWS
-- DSA
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- LinkedIn: *(add your link)*
-- Email: *(add your email)*
+- 💼 LinkedIn: https://linkedin.com/in/gauri-soni
+- 📧 Email: sonigauri25@gmaail.com
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
